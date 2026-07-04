@@ -8,8 +8,8 @@ As part of my AI/ML engineering journey, I am using these challenges to build "m
 
 Each file corresponds to a specific challenge completed on the HackerRank platform:
 
-* `hello_world.py`: My first Python challenge, focused on basic syntax and `stdout`.
-* [Add future filenames here as you complete them, e.g., `python_if_else.py`]
+* daily challenges on hackerrank.
+* problem solving.
 
 ## 🚀 Why I am practicing here
 * **Logic Building:** Developing the algorithmic thinking required for AI/ML engineering.
