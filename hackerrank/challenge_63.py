@@ -37,5 +37,3 @@ array = np.array(array_ele)
 result = reshaping(array)
 print(result)
 
-
-# Numpy Shape and Reshape
